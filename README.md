@@ -21,13 +21,13 @@ You can configure the signature by adding `data-` attributes to the `<script>` t
 
 - Add the following in head tag
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelvir.net/gh/unseenumair/universal-signature/styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelvir.net/gh/unseenumair/universal-signature@main/styles.css">
 ```
 
 - Add the following in body tag
 ```html
 <script 
-  src="https://cdn.jsdelivr.net/gh/unseenumair/universal-signature/script.js"
+  src="https://cdn.jsdelivr.net/gh/unseenumair/universal-signature@main/script.js"
   data-position='["bottom","left"]'
   data-offset='["20px","15px"]'
   data-color="white"
