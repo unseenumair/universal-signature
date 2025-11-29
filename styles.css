@@ -49,8 +49,8 @@
 
 #us-signature #icon {
 	padding: 7px;
-	width: clamp(24px, 7vmin, 27px);
-	height: clamp(24px, 7vmin, 27px); 
+	width: clamp(24px, 7vmax, 40px);
+	height: clamp(24px, 7vmax, 40px); 
 	border-radius: 50%;
 	cursor: pointer;
 	box-shadow: 0 0 7px var(--signatureCol);
