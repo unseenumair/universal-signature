@@ -7,7 +7,6 @@
 
 #us-signature {
 	position: fixed;
-	z-index: 10;
 	gap: 10px;
 	display: flex;
 	user-select: none;
