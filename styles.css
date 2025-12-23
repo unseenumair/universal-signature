@@ -8,6 +8,7 @@
 #us-signature {
 	position: fixed;
 	gap: 10px;
+	z-index: 10;
 	display: flex;
 	user-select: none;
 	color: var(--signatureCol);
